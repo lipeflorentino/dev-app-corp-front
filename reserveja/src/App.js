@@ -11,7 +11,7 @@ function App() {
       <Home />
       
       <footer>
-      
+        <p>Copyright 2019 - ReserveJá</p>
       </footer>
     </div>
   );

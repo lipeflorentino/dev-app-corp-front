@@ -13,9 +13,9 @@ const Content = () => (
     <div className="content-container">
         <div className="cc-content">
             <h1>ReserveJá</h1>
-            <a class="waves-effect waves-light btn">button</a>
-            <a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>button</a>
-            <a class="waves-effect waves-light btn"><i class="material-icons right">cloud</i>button</a>
+            <a href="/login" class="waves-effect waves-light btn">Entrar</a>
+            <a href="/login" class="waves-effect waves-light btn">Esqueceu Senha</a>
+            <a href="/login" class="waves-effect waves-light btn">Cadastrar</a>
         </div>
     </div>    
 );
