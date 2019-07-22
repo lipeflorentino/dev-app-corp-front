@@ -1,17 +1,18 @@
 import React from 'react';
 import './App.scss';
-
+import Home from './pages/home/home-page.js';
 function App() {
   return (
-    <div className="App">
+    <div className="app-container">
       <header className="App-header">
-        <h1>ReserveJá</h1>        
-        
+            
       </header>
-
-      <div>
-      <h1>ReserveJá</h1>   
-      </div>
+      
+      <Home />
+      
+      <footer>
+      
+      </footer>
     </div>
   );
 }
